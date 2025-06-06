@@ -1,2 +1,3 @@
 # FabianLacky.github.io
-what bro
+Tutorial on how to download rufus
+go to the website rufus.ie
